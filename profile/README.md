@@ -1,5 +1,8 @@
 ## Welcome  to JKA Consulting
 
+![image](https://github.com/user-attachments/assets/1ba4d965-ff64-4c4e-8c8e-d7b0da179661)
+
+
 <!--
 
 **Here are some ideas to get you started:**
